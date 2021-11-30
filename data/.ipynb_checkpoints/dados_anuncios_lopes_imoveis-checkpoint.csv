@@ -1,0 +1,430 @@
+Imóvel,Preço (R$),Aluguel (R$),Bairro,Área,Quartos,Banheiros,Vagas
+Apartamento,2.478,1.750,Santana, 62m² , 02 , 02 , 01 
+Apartamento,3.020,2.300,Santana, 72m² , 02 , 02 , 01 
+Condomínio,59.600,50.000,Alto Da Boa Vista, 594m² , 04 , 06 , 04 
+Apartamento,64.990,50.000,Alto De Pinheiros, 644m² , 04 , 06 , 08 
+Apartamento,18.809,13.000,Vila Madalena, 280m² , 04 , 05 , 05 
+Sobrado,19.400,18.000,Santana, 597m² , 04 , 07 , 06 
+Apartamento,4.380,3.000,Santana, 78m² , 03 , 02 , 02 
+Apartamento,2.808,2.000,Bela Vista, 48m² , 01 , 01 , 01 
+Apartamento,4.383,3.300,Vila Mariana, 100m² , 03 , 03 , 01 
+Salas,2.594,1.400,Jardim América, 40m² , 00 , 01 ,0
+Apartamento,7.680,6.300,Pinheiros, 72m² , 02 , 02 , 01 
+Casa térrea,10.000,10.000,Jardim São Bento, 400m² , 02 , 06 , 08 
+Apartamento,13.725,10.800,Jardim Marajoara, 266m² , 04 , 06 , 04 
+Casa de vila,1.000,1.000,Casa Verde, 30m² , 01 , 01 ,0
+Casa de vila,850,850,Casa Verde, 30m² , 01 , 01 ,0
+Sobrado,3.293,3.000,Imirim, 149m² , 03 , 03 , 02 
+Apartamento,3.210,2.650,Casa Verde, 49m² , 01 , 01 , 01 
+Apartamento,3.400,2.550,Santana, 110m² , 02 , 02 , 01 
+Apartamento,1.685,1.200,Bela Vista, 46m² , 01 , 01 , 01 
+Apartamento,6.482,4.300,Jardim Paulista, 165m² , 03 , 03 , 01 
+Apartamento,2.627,2.100,Santana, 82m² , 03 , 02 , 01 
+Apartamento,2.900,2.300,Santana, 70m² , 02 , 02 , 01 
+Apartamento,3.111,2.100,Santana, 66m² , 02 , 02 , 01 
+Apartamento,4.266,3.000,Santana, 93m² , 03 , 02 , 01 
+Apartamento,4.030,3.000,Santana, 75m² , 03 , 02 , 01 
+Apartamento,3.780,2.500,Pinheiros, 80m² , 03 , 02 , 01 
+Apartamento,2.202,1.500,Bela Vista, 50m² , 01 , 01 , 01 
+Apartamento,2.988,2.400,Santana, 49m² , 01 , 01 , 01 
+Apartamento,20.946,16.000,Jardim Paulista, 207m² , 03 , 02 , 02 
+Casa,84.500,80.000,Santana, 2000m² , 05 , 00 , 10 
+Apartamento,6.480,4.500,Perdizes, 115m² , 03 , 03 , 02 
+Apartamento,3.706,2.500,Vila Mariana, 120m² , 02 , 02 , 01 
+Apartamento,3.400,2.500,Santana, 54m² , 02 , 01 , 02 
+Apartamento,2.923,2.300,Santana, 53m² , 01 , 01 , 01 
+Apartamento,13.068,10.500,Jardim Paulista, 137m² , 03 , 04 , 01 
+Apartamento,3.127,1.950,Santana, 60m² , 02 , 02 , 02 
+Apartamento,4.159,2.550,Vila Mariana, 128m² , 03 , 03 , 01 
+Apartamento,2.977,2.400,Bela Vista, 42m² , 01 , 01 , 01 
+Apartamento,2.324,1.650,Santana, 70m² , 02 , 02 , 01 
+Cobertura,13.000,7.800,Santana, 600m² , 05 , 07 , 04 
+Apartamento,77.200,60.000,Alto De Pinheiros, 508m² , 04 , 06 , 06 
+Sobrado,9.815,8.000,Alto Da Boa Vista, 450m² , 04 , 05 , 06 
+Apartamento,4.101,2.600,Vila Mariana, 97m² , 03 , 02 , 02 
+Apartamento,3.188,2.600,Santana, 49m² , 01 , 01 , 01 
+Apartamento,2.705,2.000,Santana, 63m² , 02 , 02 , 01 
+Apartamento,1.860,1.500,Santana, 92m² , 02 , 02 ,0
+Apartamento,3.700,2.500,Santana, 90m² , 03 , 02 , 01 
+Apartamento,2.100,1.300,Bela Vista, 30m² , 01 , 01 , 01 
+Apartamento,16.840,12.000,Moema, 192m² , 03 , 03 , 03 
+Apartamento,2.215,1.400,Santana, 105m² , 02 , 02 , 01 
+Apartamento,3.400,2.750,Santana, 60m² , 02 , 01 ,0
+Salas,2.876,1.800,Santana, 47m² , 00 , 01 , 01 
+Condomínio,20.641,17.000,Alto Da Boa Vista, 300m² , 04 , 05 , 04 
+Apartamento,4.930,3.800,Jardim Paulista, 124m² , 02 , 02 , 01 
+Apartamento,2.770,1.700,Santana, 53m² , 02 , 02 , 01 
+Apartamento,5.895,4.300,Santana, 123m² , 03 , 02 , 02 
+Apartamento,5.987,3.800,Itaim Bibi, 116m² , 03 , 03 , 01 
+Apartamento,3.058,2.590,Santana, 33m² , 01 , 01 , 01 
+Apartamento,2.204,1.750,Vila Leopoldina, 48m² , 02 , 01 , 01 
+Apartamento,31.760,23.000,Alto De Pinheiros, 316m² , 04 , 05 , 05 
+Apartamento,12.000,9.000,Jardim Paulista, 168m² , 04 , 02 , 02 
+Apartamento,11.801,9.800,Higienópolis, 180m² , 03 , 03 , 01 
+Apartamento,3.910,2.000,Santana, 98m² , 03 , 03 , 02 
+Apartamento,2.129,1.500,Santana, 42m² , 01 , 01 , 01 
+Apartamento,3.490,3.000,Santana, 44m² , 01 , 01 , 01 
+Sobrado,9.582,8.500,Alto De Pinheiros, 162m² , 03 , 03 , 03 
+Apartamento,2.196,1.300,Jabaquara, 64m² , 02 , 01 , 01 
+Apartamento,3.922,3.000,Santana, 135m² , 03 , 03 , 01 
+Apartamento,2.631,2.000,Santana, 60m² , 02 , 02 ,0
+Sobrado,7.000,7.000,Jardim São Bento, 400m² , 03 , 06 , 05 
+Casa térrea,1.930,1.800,Santana, 120m² , 02 , 01 , 02 
+Sobrado,18.816,16.000,Jardim São Bento, 1071m² , 04 , 07 , 07 
+Apartamento,6.139,4.000,Jardim América, 180m² , 03 , 02 , 01 
+Apartamento,3.400,2.800,Jardim Paulista, 106m² , 02 , 01 ,0
+Apartamento,7.729,5.350,Alto Da Boa Vista, 187m² , 03 , 03 , 02 
+Apartamento,7.488,5.400,Itaim Bibi, 116m² , 02 , 02 , 01 
+Apartamento,5.150,3.000,Santana, 146m² , 03 , 03 , 03 
+Apartamento,3.970,2.300,Santana, 105m² , 03 , 03 , 02 
+Apartamento,4.191,3.000,Vila Mariana, 83m² , 02 , 02 , 01 
+Apartamento,3.940,2.800,Santana, 120m² , 03 , 03 , 02 
+Apartamento,2.877,2.300,Bela Vista, 42m² , 01 , 01 , 01 
+Apartamento,2.320,1.600,Santana, 68m² , 02 , 01 , 01 
+Apartamento,16.224,13.000,Moema, 120m² , 02 , 03 , 02 
+Apartamento,3.110,2.000,Santana, 78m² , 02 , 02 , 01 
+Casa,106.630,90.000,Jardim América, 880m² , 00 , 10 , 30 
+Casa,3.810,3.600,Jardim São Paulo(zona Norte), 150m² , 03 , 03 , 02 
+Apartamento,5.659,4.500,Vila Olímpia, 78m² , 02 , 02 , 01 
+Apartamento,3.606,2.500,Santana, 80m² , 03 , 02 , 02 
+Apartamento,6.977,4.700,Campo Belo, 153m² , 04 , 05 , 02 
+Apartamento,22.912,18.000,Jardim América, 230m² , 03 , 04 , 02 
+Apartamento,7.980,6.800,Vila Olímpia, 70m² , 02 , 02 , 01 
+Apartamento,3.000,1.800,Santana, 110m² , 03 , 03 , 02 
+Apartamento,2.716,1.800,Santana, 73m² , 02 , 02 , 01 
+Apartamento,11.118,8.500,Jardim Paulista, 140m² , 03 , 04 , 01 
+Apartamento,1.780,1.000,Centro, 55m² , 02 , 01 ,0
+Apartamento,7.190,6.000,Santana, 169m² , 03 , 03 , 02 
+Apartamento,9.393,7.000,Santana, 179m² , 03 , 04 , 03 
+Apartamento,2.800,2.270,Santana, 40m² , 01 , 02 , 01 
+Casa,7.843,7.000,Vila Mariana, 351m² , 03 , 03 , 02 
+Casa,1.700,1.700,Santana, 80m² , 02 , 01 ,0
+Apartamento,4.035,2.700,Santana, 140m² , 03 , 03 , 01 
+Apartamento,2.697,2.100,Santana, 41m² , 01 , 02 , 01 
+Apartamento,1.820,1.300,Bela Vista, 34m² , 01 , 01 , 01 
+Casa,3.861,3.500,Santana, 180m² , 02 , 02 , 01 
+Apartamento,8.859,6.800,Jardim América, 110m² , 03 , 03 , 02 
+Duplex,40.300,25.000,Jardim Guedala, 503m² , 04 , 05 , 06 
+Apartamento,3.440,1.800,Santana, 106m² , 03 , 02 , 02 
+Cobertura,37.543,27.000,Vila Nova Conceição, 357m² , 03 , 07 , 04 
+Apartamento,5.520,4.500,Pinheiros, 112m² , 02 , 02 , 01 
+Apartamento,29.825,24.000,Moema, 275m² , 03 , 05 , 04 
+Apartamento,2.172,1.750,Santana, 96m² , 02 , 01 ,0
+Apartamento,8.400,4.000,Santana, 207m² , 04 , 03 , 04 
+Casa,47.772,44.000,Jardim América, 462m² , 11 , 07 , 08 
+Apartamento,5.520,4.500,Vila Mariana, 113m² , 03 , 03 , 01 
+Apartamento,3.279,2.500,Santana, 74m² , 02 , 03 ,0
+Sobrado,39.000,36.000,Alto De Pinheiros, 585m² , 04 , 08 , 04 
+Apartamento,1.936,1.300,Santana, 53m² , 02 , 01 , 01 
+Apartamento,2.031,1.400,Santana, 40m² , 01 , 01 , 01 
+Salas,4.979,3.700,Jardim Paulista, 50m² , 00 , 01 ,0
+Apartamento,3.650,3.000,Santana, 60m² , 01 , 02 , 01 
+Casa,65.000,25.000,Morumbi, 3200m² , 05 , 08 , 05 
+Casa,23.522,20.000,Jardim América, 600m² , 04 , 03 , 05 
+Sobrado,2.690,2.500,Jardim São Paulo(zona Norte), 150m² , 02 , 02 , 01 
+Sobrado,2.570,2.500,Santana, 110m² , 02 , 02 , 01 
+Apartamento,5.866,3.500,Santana, 143m² , 03 , 02 , 03 
+Apartamento,2.050,2.000,Santana, 115m² , 02 , 01 ,0
+Casa,33.650,30.000,Morumbi, 800m² , 04 , 07 , 10 
+Apartamento,4.458,3.000,Pinheiros, 73m² , 02 , 02 , 01 
+Apartamento,3.000,2.500,Santana, 42m² , 01 , 01 , 02 
+Salas,2.195,1.200,Perdizes, 37m² , 00 , 01 , 01 
+Duplex,6.860,4.000,Santana, 160m² , 03 , 03 , 04 
+Apartamento,3.250,2.600,Vila Olímpia, 62m² , 01 , 02 , 01 
+Apartamento,13.000,9.200,Jardim Paulista, 239m² , 03 , 03 , 01 
+Apartamento,1.850,1.600,Santana, 76m² , 02 , 01 ,0
+Apartamento,3.706,2.600,Santa Teresinha, 80m² , 03 , 02 , 02 
+Casa,2.000,2.000,Saúde, 150m² , 02 , 01 , 01 
+Cobertura,13.656,7.000,Água Fria, 490m² , 05 , 08 , 05 
+Apartamento,5.914,4.450,Pinheiros, 125m² , 03 , 03 , 01 
+Casa,41.000,37.000,Jardim América, 750m² , 04 , 03 , 08 
+Sobrado,36.897,35.000,Alto De Pinheiros, 467m² , 04 , 07 , 05 
+Sobrado,30.975,27.500,Alto De Pinheiros, 890m² , 04 , 06 , 05 
+Condomínio,45.000,45.000,Morumbi, 1000m² , 04 , 06 , 04 
+Apartamento,17.389,12.000,Jardim América, 440m² , 03 , 04 , 02 
+Cobertura,7.930,6.000,Vila Mariana, 130m² , 02 , 03 , 02 
+Apartamento,1.780,1.000,Bom Retiro, 55m² , 02 , 01 ,0
+Apartamento,5.090,4.000,Pinheiros, 135m² , 02 , 02 , 01 
+Apartamento,3.060,2.380,Santana, 42m² , 01 , 01 , 01 
+Casa,12.000,8.000,Santana, 236m² , 01 , 01 ,0
+Sobrado,21.586,20.000,Alto De Pinheiros, 507m² , 04 , 06 , 05 
+Apartamento,2.160,1.800,Santana, 41m² , 02 , 01 ,0
+Casa,27.116,25.000,Jardim América, 370m² , 05 , 08 , 05 
+Apartamento,7.862,5.900,Vila Madalena, 133m² , 02 , 02 , 02 
+Apartamento,1.325,1.100,Vila Prudente, 30m² , 01 , 01 ,0
+Apartamento,2.000,1.100,Bela Vista, 34m² , 01 , 01 , 01 
+Apartamento,3.067,2.350,Vila Santa Catarina, 70m² , 02 , 01 , 01 
+Casa,2.109,2.000,Jardim São Paulo(zona Norte), 110m² , 02 , 01 ,0
+Apartamento,2.805,2.100,Santana, 44m² , 01 , 01 , 01 
+Apartamento,8.347,7.000,Vila Olímpia, 54m² , 01 , 02 , 01 
+Apartamento,8.382,6.282,Paraíso, 150m² , 03 , 03 , 02 
+Cobertura,9.960,8.400,Vila Nova Conceição, 136m² , 02 , 03 , 02 
+Apartamento,3.350,2.800,Saúde, 68m² , 02 , 02 , 01 
+Apartamento,9.996,6.000,Moema, 240m² , 04 , 05 , 04 
+Apartamento,3.590,1.700,Santana, 97m² , 03 , 03 , 02 
+Apartamento,11.000,7.500,Moema, 193m² , 04 , 05 , 03 
+Apartamento,3.029,2.500,Santana, 44m² , 01 , 01 , 01 
+Sobrado,4.775,4.400,Água Fria, 329m² , 05 , 05 , 02 
+Sobrado,9.800,9.000,Água Fria, 328m² , 03 , 05 , 02 
+Condomínio,35.900,29.000,Brooklin, 520m² , 04 , 06 , 06 
+Apartamento,43.500,35.000,Alto De Pinheiros, 508m² , 04 , 00 , 05 
+Sobrado,24.500,22.000,City Butantã, 700m² , 04 , 06 , 06 
+Apartamento,1.804,1.100,Santana, 36m² , 01 , 01 , 01 
+Apartamento,22.000,15.000,Alto De Pinheiros, 263m² , 04 , 06 , 04 
+Apartamento,4.935,4.000,Santana, 76m² , 02 , 02 , 02 
+Apartamento,7.125,5.500,Jardim Paulista, 110m² , 03 , 03 , 01 
+Sobrado,4.095,4.000,Santana, 180m² , 03 , 04 , 02 
+Condomínio,1.550,1.400,Vila Paulicéia, 297m² , 01 , 01 ,0
+Sobrado,18.127,15.000,Sumaré, 1095m² , 04 , 03 , 06 
+Apartamento,3.430,2.600,Santana, 80m² , 04 , 02 , 02 
+Apartamento,7.852,3.700,Moema, 190m² , 03 , 04 , 02 
+Apartamento,11.957,6.212,Moema, 210m² , 04 , 06 , 04 
+Apartamento,10.116,7.500,Moema, 178m² , 04 , 03 , 02 
+Sobrado,7.000,7.000,Jardim França, 300m² , 03 , 05 , 04 
+Casa,4.000,4.000,Santana, 239m² , 03 , 06 , 03 
+Apartamento,4.620,3.250,Perdizes, 110m² , 03 , 03 , 01 
+Apartamento,10.267,6.000,Higienópolis, 220m² , 03 , 04 , 02 
+Apartamento,5.440,1.600,Morumbi, 200m² , 03 , 01 , 04 
+Apartamento,37.695,30.000,Moema, 315m² , 04 , 05 , 04 
+Apartamento,4.375,3.500,Pinheiros, 95m² , 03 , 02 , 01 
+Apartamento,31.187,22.000,Jardim América, 490m² , 03 , 05 , 03 
+Apartamento,23.662,17.500,Jardim América, 248m² , 04 , 05 , 03 
+Apartamento,12.800,9.000,Jardim Paulista, 239m² , 03 , 03 , 01 
+Apartamento,2.773,1.850,Bela Vista, 86m² , 02 , 01 ,0
+Apartamento,2.888,2.300,Santana, 49m² , 01 , 01 , 01 
+Apartamento,27.240,20.000,Jardim América, 308m² , 04 , 06 , 03 
+Apartamento,3.326,2.350,Santana, 78m² , 03 , 02 , 02 
+Apartamento,2.945,2.500,Bela Vista, 35m² , 01 , 01 , 01 
+Sobrado,9.273,8.000,Jardim Franca, 450m² , 04 , 05 , 05 
+Apartamento,2.622,2.000,Consolação, 38m² , 01 , 01 , 01 
+Apartamento,15.600,12.000,Vila Madalena, 198m² , 03 , 00 , 03 
+Apartamento,13.050,10.000,Jardim Paulista, 210m² , 03 , 05 , 01 
+Apartamento,4.765,2.800,Perdizes, 119m² , 03 , 03 , 02 
+Apartamento,930,600,Centro, 32m² , 01 , 01 ,0
+Duplex,17.630,15.000,Vila Nova Conceição, 121m² , 01 , 02 , 02 
+Condomínio,27.100,23.500,Cidade Jardim, 514m² , 04 , 05 , 04 
+Sobrado,3.890,3.500,Jardim São Paulo(zona Norte), 200m² , 00 , 03 , 02 
+Apartamento,31.290,25.000,Jardim Paulista, 365m² , 04 , 06 , 02 
+Apartamento,6.182,4.200,Santana, 100m² , 03 , 03 , 03 
+Condomínio,25.954,21.500,Alto Da Boa Vista, 554m² , 04 , 06 , 02 
+Apartamento,4.406,3.100,Moema, 83m² , 02 , 02 , 01 
+Apartamento,1.850,1.400,Bela Vista, 50m² , 01 , 01 , 01 
+Apartamento,4.021,2.000,Vila Madalena, 114m² , 02 , 02 , 02 
+Apartamento,16.188,11.000,Jardim Marajoara, 310m² , 04 , 05 , 04 
+Apartamento,1.525,1.300,Vila Prudente, 27m² , 01 , 01 ,0
+Sobrado,7.000,7.000,Água Fria, 203m² , 04 , 03 , 02 
+Apartamento,4.300,3.200,Bela Vista, 156m² , 03 , 03 , 01 
+Apartamento,2.330,1.700,Santa Teresinha, 62m² , 02 , 02 , 01 
+Apartamento,5.000,2.650,Santana, 157m² , 03 , 04 , 03 
+Apartamento,10.900,9.000,Paraíso, 142m² , 03 , 03 , 02 
+Apartamento,3.701,2.100,Santana, 120m² , 03 , 03 , 01 
+Apartamento,3.500,2.600,Santa Terezinha, 55m² , 02 , 02 , 01 
+Apartamento,2.697,1.800,Santana, 70m² , 02 , 02 , 01 
+Apartamento,4.871,4.000,Bela Vista, 156m² , 03 , 03 , 01 
+Apartamento,3.800,2.500,Santana, 94m² , 03 , 03 , 02 
+Apartamento,3.570,2.500,Santana, 62m² , 02 , 02 , 02 
+Salas,5.912,3.360,Pinheiros, 80m² , 00 , 02 , 01 
+Apartamento,96.808,75.000,Vila Nova Conceição, 539m² , 03 , 05 , 06 
+Sobrado,7.567,6.500,Vila Ester (zona Norte), 450m² , 04 , 06 , 04 
+Apartamento,10.689,8.000,Higienópolis, 170m² , 03 , 04 , 01 
+Apartamento,8.581,7.300,Perdizes, 104m² , 03 , 03 , 02 
+Apartamento,3.509,2.500,Higienópolis, 45m² , 01 , 01 , 01 
+Apartamento,29.724,20.000,Vila Nova Conceição, 295m² , 04 , 02 , 04 
+Cobertura,37.850,30.000,Vila Madalena, 350m² , 03 , 05 , 04 
+Lajes Corporativas,116.370,86.000,Jardim América, 789m² , 00 , 12 , 24 
+Cobertura,28.825,21.000,Moema, 481m² , 04 , 07 , 05 
+Apartamento,3.600,3.000,Pinheiros, 70m² , 02 , 02 , 01 
+Apartamento,29.218,17.000,Moema, 287m² , 03 , 05 , 04 
+Apartamento,11.400,9.000,Jardim Paulista, 150m² , 05 , 05 , 02 
+Apartamento,7.690,6.500,Pinheiros, 112m² , 02 , 02 ,0
+Salas,8.022,4.800,Pinheiros, 115m² , 00 , 02 , 01 
+Sobrado,8.401,8.000,Água Fria, 360m² , 00 , 05 , 03 
+Apartamento,4.871,3.800,Itaim Bibi, 108m² , 03 , 02 , 01 
+Apartamento,7.305,6.000,Itaim Bibi, 116m² , 03 , 03 , 01 
+Apartamento,18.600,13.000,Jardim Paulista, 400m² , 04 , 05 , 02 
+Apartamento,7.824,5.000,Perdizes, 130m² , 03 , 04 , 03 
+Sobrado,7.225,6.500,Santana, 380m² , 03 , 04 , 02 
+Apartamento,3.988,2.800,Moema, 83m² , 02 , 01 , 01 
+Apartamento,21.026,15.000,Moema, 275m² , 04 , 05 , 04 
+Apartamento,3.275,2.500,Lapa, 63m² , 02 , 02 , 01 
+Studio,2.675,2.250,Bela Vista, 40m² , 01 , 01 , 01 
+Apartamento,8.107,5.000,Perdizes, 171m² , 04 , 05 , 03 
+Apartamento,3.221,1.600,Bela Vista, 36m² , 01 , 01 , 01 
+Apartamento,3.582,2.800,Bela Vista, 40m² , 01 , 01 , 01 
+Apartamento,3.490,2.600,Consolação, 119m² , 02 , 02 ,0
+Sobrado,21.715,8.000,Jardim Marajoara, 510m² , 04 , 04 , 02 
+Apartamento,13.700,12.000,Jardim Marajoara, 266m² , 04 , 05 , 04 
+Apartamento,5.700,4.000,Higienópolis, 157m² , 03 , 01 , 01 
+Apartamento,3.970,2.800,Bela Vista, 38m² , 01 , 01 , 01 
+Apartamento,3.172,2.200,Santana, 70m² , 02 , 02 , 01 
+Apartamento,7.652,6.300,Tatuapé, 95m² , 03 , 03 , 02 
+Apartamento,10.312,8.600,Jardim Paulista, 150m² , 02 , 03 , 01 
+Apartamento,2.500,2.000,Consolação, 42m² , 01 , 02 , 01 
+Casa,30.500,29.500,Brooklin, 400m² , 03 , 04 , 04 
+Apartamento,1.930,1.800,Santana, 44m² , 01 , 01 ,0
+Apartamento,3.601,2.350,Bela Vista, 45m² , 01 , 00 , 01 
+Condomínio,80.000,80.000,Jardim São Bento, 2000m² , 05 , 11 , 10 
+Apartamento,6.360,4.500,Jardim Paulista, 96m² , 03 , 03 , 01 
+Apartamento,5.900,4.420,Pinheiros, 55m² , 02 , 01 , 01 
+Apartamento,15.779,11.000,Jardim Paulista, 150m² , 03 , 02 , 03 
+Apartamento,5.357,3.800,Pinheiros, 120m² , 03 , 03 , 01 
+Salas,2.203,1.750,Santana, 35m² , 00 , 02 , 01 
+Apartamento,3.273,1.800,Jardim São Paulo(zona Norte), 83m² , 03 , 04 , 02 
+Sobrado,3.170,3.000,Santana, 110m² , 02 , 01 ,0
+Apartamento,11.440,8.500,Brooklin, 172m² , 03 , 03 , 02 
+Apartamento,3.250,2.600,Casa Verde, 49m² , 01 , 01 , 01 
+Apartamento,4.113,2.500,Santana, 155m² , 04 , 03 , 01 
+Apartamento,5.637,4.100,Pinheiros, 75m² , 02 , 03 , 01 
+Apartamento,6.350,4.800,Itaim Bibi, 100m² , 03 , 03 , 01 
+Apartamento,6.171,5.000,Pinheiros, 85m² , 02 , 02 , 02 
+Sobrado,9.100,8.000,Tremembé, 1000m² , 03 , 07 , 08 
+Apartamento,37.100,31.500,Jardim Paulista, 285m² , 04 , 04 , 03 
+Sobrado,16.510,13.900,Alto De Pinheiros, 525m² , 04 , 09 , 08 
+Apartamento,9.635,7.000,Pinheiros, 175m² , 03 , 03 , 01 
+Apartamento,5.500,4.300,Moema, 85m² , 02 , 02 , 01 
+Sobrado,41.600,40.000,Pinheiros, 947m² , 04 , 02 , 05 
+Apartamento,10.580,8.500,Moema, 125m² , 03 , 03 , 02 
+Apartamento,2.654,2.000,Bela Vista, 36m² , 01 , 01 , 01 
+Apartamento,2.480,2.000,Bela Vista, 35m² , 01 , 01 ,0
+Apartamento,2.714,2.250,Bela Vista, 25m² , 01 , 01 ,0
+Apartamento,3.973,2.600,Vila Olímpia, 55m² , 02 , 01 , 01 
+Apartamento,12.160,8.800,Jardim Paulista, 276m² , 03 , 04 , 01 
+Apartamento,4.740,3.200,Moema, 95m² , 03 , 02 , 02 
+Apartamento,3.009,2.400,Santana, 44m² , 01 , 01 , 01 
+Apartamento,6.430,4.500,Pinheiros, 130m² , 03 , 03 , 01 
+Apartamento,3.458,2.770,Brooklin, 33m² , 01 , 00 , 01 
+Apartamento,5.045,3.400,Jardim Paulista, 100m² , 03 , 02 , 01 
+Apartamento,11.191,9.000,Higienópolis, 179m² , 04 , 03 , 01 
+Apartamento,7.600,5.500,Jardim Paulista, 113m² , 03 , 03 , 01 
+Apartamento,15.500,9.300,Moema, 236m² , 04 , 04 , 04 
+Apartamento,6.356,4.000,Santana, 171m² , 03 , 05 , 02 
+Apartamento,9.138,7.000,Jardim Paulista, 120m² , 03 , 03 , 02 
+Apartamento,1.827,1.400,Bela Vista, 28m² , 01 , 01 , 01 
+Condomínio,1.700,1.700,Santana, 36m² , 01 , 01 ,0
+Apartamento,5.417,3.500,Santana, 103m² , 02 , 04 , 02 
+Salas,3.599,2.400,Bela Vista, 30m² , 00 , 01 , 01 
+Apartamento,1.620,1.100,Bela Vista, 27m² , 01 , 01 , 01 
+Sobrado,90.000,80.000,Cidade Jardim, 1789m² , 04 , 10 , 06 
+Sobrado,4.000,4.000,Água Fria, 170m² , 00 , 02 , 01 
+Apartamento,1.990,1.200,Bela Vista, 50m² , 01 , 01 , 01 
+Apartamento,1.822,1.250,Jabaquara, 64m² , 02 , 01 , 01 
+Salas,8.685,7.500,Pinheiros, 80m² , 00 , 02 , 01 
+Apartamento,1.496,1.000,Centro, 40m² , 01 , 01 ,0
+Apartamento,4.695,2.400,Santana, 143m² , 03 , 04 , 03 
+Cobertura,14.211,12.000,Pinheiros, 133m² , 02 , 02 , 02 
+Apartamento,2.750,1.900,Vila Prudente, 78m² , 02 , 02 , 01 
+Apartamento,16.629,14.600,Pinheiros, 132m² , 02 , 02 , 02 
+Apartamento,23.730,20.000,Jardim Paulista, 310m² , 03 , 04 , 02 
+Apartamento,6.365,4.350,Perdizes, 135m² , 03 , 04 , 01 
+Apartamento,6.100,5.000,Perdizes, 110m² , 03 , 02 , 02 
+Sobrado,8.500,8.500,Jardim São Bento, 460m² , 04 , 05 , 03 
+Apartamento,13.999,8.500,Jardim Paulista, 184m² , 03 , 04 , 02 
+Apartamento,31.342,25.000,Paraíso, 296m² , 04 , 06 , 05 
+Apartamento,8.400,5.700,Jardim Paulista, 184m² , 03 , 04 , 02 
+Apartamento,6.289,4.800,Moema, 95m² , 03 , 04 , 02 
+Apartamento,7.030,5.500,Moema, 110m² , 03 , 03 , 02 
+Apartamento,4.350,3.400,Santana, 76m² , 02 , 02 , 02 
+Apartamento,4.612,2.990,Perdizes, 85m² , 03 , 02 , 01 
+Apartamento,5.280,3.400,Jardim Paulista, 182m² , 03 , 02 , 01 
+Apartamento,7.870,5.500,Santana, 179m² , 03 , 04 , 04 
+Condomínio,60.470,50.000,Alto Da Boa Vista, 2000m² , 04 , 07 , 06 
+Apartamento,3.076,2.100,Higienópolis, 41m² , 01 , 01 , 01 
+Apartamento,1.565,1.200,Santana, 59m² , 01 , 01 ,0
+Cobertura,9.190,6.000,Santana, 103m² , 03 , 03 , 04 
+Apartamento,6.604,4.200,Moema, 102m² , 03 , 04 , 02 
+Sobrado,29.980,28.000,Alto De Pinheiros, 550m² , 05 , 07 , 06 
+Sobrado,4.912,4.500,Brooklin, 150m² , 03 , 04 , 02 
+Apartamento,5.720,4.000,Pinheiros, 157m² , 03 , 03 , 01 
+Apartamento,3.795,2.800,Consolação, 45m² , 01 , 01 , 01 
+Apartamento,2.488,1.400,Santana, 90m² , 03 , 03 , 02 
+Apartamento,12.020,6.000,Real Parque, 320m² , 03 , 05 , 04 
+Apartamento,5.205,3.990,Itaim Bibi, 87m² , 03 , 02 , 01 
+Apartamento,12.930,8.500,Moema, 220m² , 04 , 04 , 04 
+Apartamento,11.710,9.000,Jardim América, 165m² , 03 , 03 , 02 
+Apartamento,9.380,6.800,Tatuapé, 190m² , 03 , 04 , 02 
+Apartamento,8.000,4.200,Jardim Paulista, 190m² , 03 , 04 , 01 
+Apartamento,4.250,3.200,Santana, 110m² , 02 , 02 ,0
+Apartamento,3.793,3.000,Parada Inglesa, 76m² , 03 , 02 , 02 
+Apartamento,7.244,5.500,Jardim América, 58m² , 01 , 01 , 02 
+Casa,10.800,6.000,Jardim São Paulo(zona Norte), 400m² , 03 , 06 , 02 
+Apartamento,5.573,4.500,Pinheiros, 125m² , 03 , 02 , 01 
+Casa,19.575,17.000,Morumbi, 570m² , 04 , 05 , 04 
+Casa,5.920,4.900,Santana, 413m² , 03 , 03 , 03 
+Sobrado,4.025,3.600,Santana, 245m² , 03 , 05 , 05 
+Apartamento,4.124,3.200,Pinheiros, 52m² , 02 , 02 , 01 
+Casa,23.516,20.000,Alto De Pinheiros, 763m² , 03 , 05 , 08 
+Apartamento,2.340,2.200,Jardim São Paulo(zona Norte), 84m² , 03 , 01 ,0
+Apartamento,2.949,2.199,Bela Vista, 45m² , 01 , 01 , 01 
+Apartamento,6.600,5.000,Santana, 136m² , 03 , 05 , 02 
+Apartamento,1.540,1.150,Bela Vista, 36m² , 01 , 01 ,0
+Apartamento,209.279,180.000,Jardim Europa, 750m² , 04 , 05 , 06 
+Apartamento,7.200,5.000,Jardim América, 197m² , 03 , 03 , 01 
+Cobertura,20.225,15.000,Moema, 240m² , 03 , 05 , 04 
+Apartamento,38.069,31.200,Moema, 257m² , 03 , 05 , 04 
+Apartamento,8.570,4.500,Brooklin, 210m² , 03 , 04 , 02 
+Apartamento,18.900,14.000,Alto De Pinheiros, 220m² , 04 , 05 , 04 
+Apartamento,2.695,2.100,Santana, 42m² , 01 , 01 , 02 
+Sobrado,5.805,5.300,Santana, 100m² , 00 , 03 , 02 
+Apartamento,5.546,3.500,Santana, 157m² , 04 , 03 , 02 
+Apartamento,6.150,3.900,Pinheiros, 66m² , 02 , 01 , 01 
+Apartamento,14.794,10.000,Moema, 240m² , 04 , 05 , 04 
+Apartamento,4.325,3.200,Santana, 83m² , 03 , 03 , 02 
+Cobertura,25.147,17.000,Campo Belo, 389m² , 04 , 06 , 05 
+Apartamento,38.332,32.000,Jardim América, 270m² , 03 , 05 , 04 
+Duplex,15.000,8.000,Moema, 250m² , 03 , 05 , 04 
+Apartamento,6.093,4.500,Moema, 100m² , 03 , 03 , 01 
+Cobertura,23.016,20.000,Campo Belo, 258m² , 03 , 03 , 04 
+Apartamento,4.500,3.480,Pinheiros, 84m² , 02 , 02 , 01 
+Apartamento,9.810,8.500,Pinheiros, 71m² , 01 , 02 , 02 
+Apartamento,2.665,2.300,Centro, 26m² , 01 , 01 ,0
+Sobrado,5.550,5.000,Santana, 298m² , 03 , 03 , 02 
+Casa térrea,9.780,8.500,Granja Julieta, 480m² , 03 , 05 , 02 
+Apartamento,7.255,5.000,Jardim América, 165m² , 03 , 03 , 02 
+Apartamento,6.650,4.500,Jardim Paulista, 140m² , 03 , 03 , 01 
+Apartamento,5.900,3.700,Pinheiros, 116m² , 03 , 02 , 02 
+Condomínio,3.270,3.000,Tremembé, 112m² , 03 , 03 , 02 
+Apartamento,3.160,2.500,Barra Funda, 51m² , 02 , 02 , 01 
+Apartamento,2.085,2.000,Santana, 70m² , 02 , 01 ,0
+Sobrado,14.168,13.000,Vila Mariana, 191m² , 04 , 03 , 02 
+Apartamento,6.300,5.500,Vila Olímpia, 32m² , 02 , 02 , 01 
+Apartamento,2.560,2.000,Santana, 31m² , 01 , 01 , 11 
+Apartamento,3.012,2.400,Higienópolis, 50m² , 02 , 01 , 01 
+Apartamento,4.021,3.000,Brooklin, 49m² , 01 , 01 , 01 
+Salas,2.629,1.600,Santana, 40m² , 00 , 02 , 01 
+Salas,5.860,4.500,Santana, 85m² , 00 , 02 , 02 
+Apartamento,17.477,14.000,Campo Belo, 201m² , 04 , 05 , 04 
+Apartamento,9.118,6.500,Jardim Paulista, 140m² , 03 , 02 , 01 
+Apartamento,3.012,2.300,Santana, 51m² , 02 , 01 , 01 
+Salas,3.124,2.200,Santana, 47m² , 00 , 02 , 01 
+Apartamento,10.970,8.571,Jardim Paulista, 177m² , 03 , 03 , 02 
+Apartamento,1.640,1.200,Santana, 48m² , 01 , 01 , 01 
+Cobertura,9.938,7.000,Vila Mariana, 218m² , 03 , 02 , 03 
+Apartamento,2.420,1.700,Santana, 37m² , 01 , 01 , 01 
+Apartamento,7.235,4.300,Alto De Pinheiros, 125m² , 02 , 04 , 02 
+Apartamento,3.508,2.350,Pinheiros, 100m² , 02 , 01 , 01 
+Casa,19.175,15.000,Brooklin, 790m² , 06 , 08 , 10 
+Sobrado,3.391,3.000,Santana, 150m² , 03 , 02 , 02 
+Apartamento,12.390,8.900,Real Parque, 180m² , 02 , 05 , 03 
+Apartamento,12.034,6.000,Moema, 200m² , 03 , 04 , 04 
+Salas,2.800,1.500,Pinheiros, 38m² , 01 , 01 ,0
+Apartamento,6.663,4.500,Pinheiros, 109m² , 03 , 03 , 02 
+Apartamento,4.492,2.500,Santana, 159m² , 03 , 04 , 03 
+Apartamento,9.090,7.400,Itaim Bibi, 110m² , 03 , 02 , 01 
+Apartamento,16.090,12.000,Perdizes, 190m² , 04 , 05 , 03 
+Sobrado,2.800,2.800,Santa Terezinha, 150m² , 03 , 03 , 02 
+Casa térrea,2.401,2.400,Santana, 104m² , 03 , 02 , 01 
+Apartamento,15.245,10.000,Itaim Bibi, 230m² , 03 , 05 , 04 
+Apartamento,3.509,2.500,Consolação, 45m² , 01 , 01 , 01 
+Apartamento,6.850,5.100,Pinheiros, 75m² , 03 , 03 , 02 
+Apartamento,4.091,2.900,Perdizes, 84m² , 03 , 03 , 01 
+Apartamento,3.548,2.700,Perdizes, 80m² , 02 , 01 , 01 
+Apartamento,3.900,3.000,Ibirapuera, 47m² , 02 , 01 , 01 
+Apartamento,9.046,7.300,Jardim América, 160m² , 03 , 02 , 02 
+Apartamento,4.921,3.950,Pinheiros, 57m² , 01 , 01 , 01 
+Apartamento,3.650,3.000,Vila Leopoldina, 69m² , 02 , 02 , 01 
+Apartamento,2.346,1.790,Vila Anastácio, 52m² , 02 , 01 , 01 
+Apartamento,2.222,1.800,Vila Anastácio, 48m² , 02 , 01 , 01 
+Apartamento,13.261,10.000,Jardim América, 180m² , 04 , 03 , 02 
+Casa,25.900,20.000,Alto Da Boa Vista, 587m² , 04 , 01 , 04 
+Casa de vila,1.300,1.300,Santana, 60m² , 01 , 01 ,0
+Apartamento,14.660,10.000,Moema, 300m² , 03 , 04 , 02 
